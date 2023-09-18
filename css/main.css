@@ -1348,7 +1348,7 @@ header .logo a {
 	letter-spacing: .25rem;
 }
 .intro-content .button:hover, .intro-content .button:focus {
-	border-color: #cc005f;
+	border-color: #0051ff;
 }
 .intro-content .button::after {
 	display: inline-block;
